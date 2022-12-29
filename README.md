@@ -1,3 +1,3 @@
-# kataCodeWars
+# katas CodeWars
 
-A place where i commit all my kata from codeWars website.
+A place where I commit all my completed kata from codeWars website.
